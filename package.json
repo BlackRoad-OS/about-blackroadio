@@ -1,0 +1,13 @@
+{
+  "name": "about-blackroadio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "About page for BlackRoad OS — Cloudflare Worker",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
